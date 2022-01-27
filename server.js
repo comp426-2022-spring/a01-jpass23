@@ -21,6 +21,7 @@ fs.readFile('./www/index.html', 'utf8' , (err, data) => {
     if (err) {
       console.error("Error: "+err)
       return
+      process.exit(1)
     }
     html = data;
     console.log("Data: "+data)
