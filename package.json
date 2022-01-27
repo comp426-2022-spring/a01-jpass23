@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a01-jpass23/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a01-jpass23#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a01-jpass23#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
 }
