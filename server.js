@@ -37,4 +37,3 @@ fs.readFile('./www/index.html', 'utf8' , (err, data) => {
 // Use the documentation for the node.js http module. 
 // The function should have three responses: 
 // 1. status code 200, 
-// 2. set a header with content type `text/html`, and 
