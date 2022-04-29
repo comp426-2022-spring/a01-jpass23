@@ -39,4 +39,3 @@ fs.readFile('./www/index.html', 'utf8' , (err, data) => {
 // 1. status code 200, 
 // 2. set a header with content type `text/html`, and 
 // 3. end with the data that you are reading in from ./www/index.html.
-// const server = http.createServer((req, res) => {
