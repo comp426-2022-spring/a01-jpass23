@@ -38,4 +38,3 @@ fs.readFile('./www/index.html', 'utf8' , (err, data) => {
 // The function should have three responses: 
 // 1. status code 200, 
 // 2. set a header with content type `text/html`, and 
-// 3. end with the data that you are reading in from ./www/index.html.
