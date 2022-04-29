@@ -33,4 +33,3 @@ fs.readFile('./www/index.html', 'utf8' , (err, data) => {
   })
 
   })
-// Define a const `server` as an arrow function using http.createServer. 
